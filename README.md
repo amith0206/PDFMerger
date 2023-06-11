@@ -6,12 +6,12 @@ Python 3.x \
 PyPDF2 library
 
 # Usage
-Place the PDF files you want to merge in the same directory as the script.
-Run the script using the command python main.py (replace main.py with the actual name of your script).
-Follow the prompts:
-Enter the name of the PDF file you want to merge (including the file extension '.pdf').
-Enter 'q' to discontinue adding more files or 'y' to continue adding files.
-Once you're done adding files, the script will merge them into a single PDF named 'merged.pdf' in the same directory.
+Place the PDF files you want to merge in the same directory as the script.\
+Run the script using the command python main.py (replace main.py with the actual name of your script).\
+Follow the prompts:\
+Enter the name of the PDF file you want to merge (including the file extension '.pdf'). \
+Enter 'y' to continue adding more files or 'n' to discontinue adding files.\
+Once you're done adding files, the script will merge them into a single PDF named 'merged.pdf' in the same directory.\
 The merged PDF will be saved, and you'll see a message indicating the completion of the process.
 
 # License
