@@ -2,7 +2,7 @@
 The PDF Merger is a Python script that allows you to merge multiple PDF files into a single PDF document using the PyPDF2 library.
 
 # Prerequisites
-Python 3.x
+Python 3.x \
 PyPDF2 library
 
 # Usage
